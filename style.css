@@ -33,11 +33,17 @@ font-size: large;
 
 .box {
     background-image: url(minions.png);
+    
     height: 100px;
     width: 100px;
+    display:block;
+    
+    float:left;
+    
     background-repeat: no-repeat;
     background-size: 100px,cover;
-    background-position: right top,0% 0%;
+    
+
 
 
 }
